@@ -1,1 +1,1 @@
-Prints the absolute path of the current directory
+Contains several basic shell scripts for directory navigation and manipulation
